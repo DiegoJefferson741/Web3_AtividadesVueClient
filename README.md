@@ -2,3 +2,21 @@
 Atividades desenvolvidas durante as aulas.
 
 
+Comandos Inicialização projeo em Vue
+
+
+cd Documents
+
+mkdir VueCLi
+
+cd VueCLi
+
+vue create primeiro-projeto
+
+cd primeiro-projeto
+
+escolher a versao do projeto // enter
+
+cd primeiro-projeto
+
+npm run serve
